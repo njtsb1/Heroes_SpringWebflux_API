@@ -1,6 +1,6 @@
-# Daily learning
+Daily learning
 
-## Heroes SpringWebflux API
+# Heroes SpringWebflux API
 
 Project developed at Bootcamp Inter Java Developer with instruction from specialist [Kamila Santos](https://github.com/Kamilahsantos "Kamila Santos").</br>
 Learning to develop a hero management API using Spring WebFlux, used by companies like Netflix and Pivotal, along with the Reactor reactive library that is currently maintained by VmWare. In addition, the DynamoDb bank was used locally to store the data and perform unit tests of the API with Junit and simple documentation through Postman and also Swagger.
